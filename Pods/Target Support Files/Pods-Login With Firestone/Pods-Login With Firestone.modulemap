@@ -1,0 +1,6 @@
+framework module Pods_Login_With_Firestone {
+  umbrella header "Pods-Login With Firestone-umbrella.h"
+
+  export *
+  module * { export * }
+}
